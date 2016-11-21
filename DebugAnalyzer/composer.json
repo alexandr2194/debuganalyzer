@@ -1,0 +1,12 @@
+{
+    "name": "roxot/debug-analyzer",
+    "description": "The analyzer debug",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Aleksandr.i",
+            "email": "aleksandr.i@roxot.com"
+        }
+    ],
+    "require": {}
+}

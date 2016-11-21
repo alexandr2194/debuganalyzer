@@ -1,0 +1,300 @@
+{
+  "results": {
+    "bids": [
+      {
+        "bidId": "2470d0a573639e",
+        "cpm": 1,
+        "nurl": "http%3A%2F%2Fr.rxthdr.com%2Fw%3Fi%3Dp%257DA%25DA%253A%25E6%25CB%2500%25A6%25F9%252A%25C7Y%25B9%257F%252A%2BORbEy%25CF%2F%25A5%25D5%253E%2587%251F%2586j%2586%25BA%25FET%25B2%2585T%2589f%2528%259EL%2586%25FD%257D%25BEMeP%25FB%251A5%25D4%25D33%25DF%2591%2580%25E8JS%25C3%25D5%250C%251E%25B5%2596%25C1%2523%2525%252A%2505zjir6%25C5%25DF7%257B4%25B3%2598i%2528%25F2%2589%25DD%258E%25A7%25E9X%25D40%2521%2594%25C9%25F2%25B6A1%25BE%2515%2501%258E%25CC%2508%252Cv%25AB%2500%25C4%2528n%258DO%25CB%255B%25EA%2590%2528%25D8%25E3%2527%250E3%2529A0%25FFsU%2596%25C9%2591%25E7%25F83%259A%25BB%253A%2504%25BCk%25C9El%25C7%2515%25BC%25BBw%25BA%25C4%25BBu%2580%25F3s%250A%25FA%253B%25BCDy%25E1%251F%25E8RKMt%25A0%25B9K%2588%2517%25C0%250B%25DAh%25F6%25DA%258C%2598ak%25D2R%25C4%255E%259D%25FB%25A6O%25C6%2518Q%25F3%25F9%25DC%25FC%25CB%25BD%25A9%25CA%259A%258Awa%2528G%2596%25AE%250Bc%252CQ%2504%25FD%258E3%25AB%250C2%258B%253C%25FE%25B9-%25C0%25D9%2517%255C%253F.8scP7%251EZ%25A5%25E8%25A1o%252B%25BF%25AA%25ED%253C%25EBgX%25EE%25B9bjS%25F9%2514c5%2525%25ACV%2590%25A1%25E8%2510%25D8%251BS%259F%25C5p%252A%2593%25B5fe%25BCP%2581%2501",
+        "adm": "%3Cimg%20src%3D%22http%3A%2F%2Fpublisher.roxot.com%2Fassets%2Fads%2Froxot_ad_300_250_natural.png%22%20%2F%3E%3Cscript%3Edocument.write(\u0027%3Cimg%20src%3D%22http%3A%2F%2Fr.rxthdr.com%2Fi%3Fi%3Dp%257DA%25DA%253A%25E6%25CB%2500%25A6%25F9%252A%25C7Y%25B9%257F%252A%2BORbEy%25CF%2F%25A5%25D5%253E%2587%251F%2586j%2586%25BA%25FET%25B2%2585T%2589f%2528%259EL%2586%25FD%257D%25BEMeP%25FB%251A5%25D4%25D33%25DF%2591%2580%25E8JS%25C3%25D5%250C%251E%25B5%2596%25C1%2523%2525%252A%2505zjir6%25C5%25DF7%257B4%25B3%2598i%2528%25F2%2589%25DD%258E%25A7%25E9X%25D40%2521%2594%25C9%25F2%25B6A1%25BE%2515%2501%258E%25CC%2508%252Cv%25AB%2500%25C4%2528n%258DO%25CB%255B%25EA%2590%2528%25D8%25E3%2527%250E3%2529A0%25FFsU%2596%25C9%2591%25E7%25F83%259A%25BB%253A%2504%25BCk%25C9El%25C7%2515%25BC%25BBw%25BA%25C4%25BBu%2580%25F3s%250A%25FA%253B%25BCDy%25E1%251F%25E8RKMt%25A0%25B9K%2588%2517%25C0%250B%25DAh%25F6%25DA%258C%2598ak%25D2R%25C4%255E%259D%25FB%25A6O%25C6%2518Q%25F3%25F9%25DC%25FC%25CB%25BD%25A9%25CA%259A%258Awa%2528G%2596%25AE%250Bc%252CQ%2504%25FD%258E3%25AB%250C2%258B%253C%25FE%25B9-%25C0%25D9%2517%255C%253F.8scP7%251EZ%25A5%25E8%25A1o%252B%25BF%25AA%25ED%253C%25EBgX%25EE%25B9bjS%25F9%2514c5%2525%25ACV%2590%25A1%25E8%2510%25D8%251BS%259F%25C5p%252A%2593%25B5fe%25BCP%2581%2501%22%3E\u0027)%3C%2Fscript%3E",
+        "placementCode": "div-ad-2",
+        "w": 300,
+        "h": 250
+      }
+    ]
+  },
+  "events": {
+    "events": [
+      {
+        "type": "auction_run",
+        "class": "Domain\\Event\\AuctionRunEvent",
+        "timestamp": {
+          "date": "2016-11-18 14:55:12.000000",
+          "timezone_type": 3,
+          "timezone": "Etc\/UTC"
+        },
+        "details": {
+          "visitorProfile": {
+            "site": {
+              "host": "google.com",
+              "page": "http:\/\/google.com\/",
+              "isSecure": false
+            },
+            "geoProfile": {
+              "country": "RU",
+              "country3": "RUS",
+              "region": "66",
+              "ip": "195.182.152.219"
+            },
+            "uids": [],
+            "acceptLanguage": "",
+            "device": {
+              "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/54.0.2840.98 Safari\/537.36",
+              "browser": "Chrome",
+              "os": "Mac OS X",
+              "isMobile": false
+            }
+          }
+        }
+      },
+      {
+        "type": "bid_request",
+        "class": "Domain\\Event\\BidRequestEvent",
+        "timestamp": {
+          "date": "2016-11-18 14:55:12.000000",
+          "timezone_type": 3,
+          "timezone": "Etc\/UTC"
+        },
+        "details": {
+          "bidRequests": {
+            "bidRequests": [
+              {
+                "bidId": "2470d0a573639e",
+                "placementCode": "div-ad-2",
+                "sizes": [
+                  {
+                    "width": 300,
+                    "height": 250
+                  }
+                ],
+                "publisherId": "ab51835f-9cea-4810-87e0-d38800b50321",
+                "visitorProfile": {
+                  "site": {
+                    "host": "google.com",
+                    "page": "http:\/\/google.com\/",
+                    "isSecure": false
+                  },
+                  "geoProfile": {
+                    "country": "RU",
+                    "country3": "RUS",
+                    "region": "66",
+                    "ip": "195.182.152.219"
+                  },
+                  "uids": [],
+                  "acceptLanguage": "",
+                  "device": {
+                    "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/54.0.2840.98 Safari\/537.36",
+                    "browser": "Chrome",
+                    "os": "Mac OS X",
+                    "isMobile": false
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "ad_network_bid_request",
+        "class": "Domain\\Event\\AdNetworkRequestBidsEvent",
+        "timestamp": {
+          "date": "2016-11-18 14:55:12.000000",
+          "timezone_type": 3,
+          "timezone": "Etc\/UTC"
+        },
+        "details": {
+          "adNetworkId": "58f3eb3b-48b4-49f7-80d6-2d923354cdf4",
+          "bidRequestCollection": {
+            "bidRequests": [
+              {
+                "bidId": "2470d0a573639e",
+                "placementCode": "div-ad-2",
+                "sizes": [
+                  {
+                    "width": 300,
+                    "height": 250
+                  }
+                ],
+                "publisherId": "ab51835f-9cea-4810-87e0-d38800b50321",
+                "visitorProfile": {
+                  "site": {
+                    "host": "google.com",
+                    "page": "http:\/\/google.com\/",
+                    "isSecure": false
+                  },
+                  "geoProfile": {
+                    "country": "RU",
+                    "country3": "RUS",
+                    "region": "66",
+                    "ip": "195.182.152.219"
+                  },
+                  "uids": [],
+                  "acceptLanguage": "",
+                  "device": {
+                    "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/54.0.2840.98 Safari\/537.36",
+                    "browser": "Chrome",
+                    "os": "Mac OS X",
+                    "isMobile": false
+                  }
+                }
+              }
+            ]
+          },
+          "adNetworkRequests": []
+        }
+      },
+      {
+        "type": "ad_network_bid_response",
+        "class": "Domain\\Event\\AdNetworkResponseBidsEvent",
+        "timestamp": {
+          "date": "2016-11-18 14:55:12.000000",
+          "timezone_type": 3,
+          "timezone": "Etc\/UTC"
+        },
+        "details": {
+          "adNetworkId": "58f3eb3b-48b4-49f7-80d6-2d923354cdf4",
+          "bidCollection": {
+            "bids": [
+              {
+                "id": "2470d0a573639e",
+                "impressionBeaconBuilder": "\\Closure",
+                "publisherCpm": 1,
+                "adNetworkCpm": 1,
+                "ad": "\u003Cimg src=\u0022http:\/\/publisher.roxot.com\/assets\/ads\/roxot_ad_300_250_natural.png\u0022 \/\u003E\u003Cscript\u003Edocument.write(\u0027\u003Cimg src=\u0022http:\/\/r.rxthdr.com\/i?i=p%7DA%DA%3A%E6%CB%00%A6%F9%2A%C7Y%B9%7F%2A+ORbEy%CF\/%A5%D5%3E%87%1F%86j%86%BA%FET%B2%85T%89f%28%9EL%86%FD%7D%BEMeP%FB%1A5%D4%D33%DF%91%80%E8JS%C3%D5%0C%1E%B5%96%C1%23%25%2A%05zjir6%C5%DF7%7B4%B3%98i%28%F2%89%DD%8E%A7%E9X%D40%21%94%C9%F2%B6A1%BE%15%01%8E%CC%08%2Cv%AB%00%C4%28n%8DO%CB%5B%EA%90%28%D8%E3%27%0E3%29A0%FFsU%96%C9%91%E7%F83%9A%BB%3A%04%BCk%C9El%C7%15%BC%BBw%BA%C4%BBu%80%F3s%0A%FA%3B%BCDy%E1%1F%E8RKMt%A0%B9K%88%17%C0%0B%DAh%F6%DA%8C%98ak%D2R%C4%5E%9D%FB%A6O%C6%18Q%F3%F9%DC%FC%CB%BD%A9%CA%9A%8Awa%28G%96%AE%0Bc%2CQ%04%FD%8E3%AB%0C2%8B%3C%FE%B9-%C0%D9%17%5C%3F.8scP7%1EZ%A5%E8%A1o%2B%BF%AA%ED%3C%EBgX%EE%B9bjS%F9%14c5%25%ACV%90%A1%E8%10%D8%1BS%9F%C5p%2A%93%B5fe%BCP%81%01\u0022\u003E\u0027)\u003C\/script\u003E",
+                "beacon": "http%3A%2F%2Fr.rxthdr.com%2Fw%3Fi%3Dp%257DA%25DA%253A%25E6%25CB%2500%25A6%25F9%252A%25C7Y%25B9%257F%252A%2BORbEy%25CF%2F%25A5%25D5%253E%2587%251F%2586j%2586%25BA%25FET%25B2%2585T%2589f%2528%259EL%2586%25FD%257D%25BEMeP%25FB%251A5%25D4%25D33%25DF%2591%2580%25E8JS%25C3%25D5%250C%251E%25B5%2596%25C1%2523%2525%252A%2505zjir6%25C5%25DF7%257B4%25B3%2598i%2528%25F2%2589%25DD%258E%25A7%25E9X%25D40%2521%2594%25C9%25F2%25B6A1%25BE%2515%2501%258E%25CC%2508%252Cv%25AB%2500%25C4%2528n%258DO%25CB%255B%25EA%2590%2528%25D8%25E3%2527%250E3%2529A0%25FFsU%2596%25C9%2591%25E7%25F83%259A%25BB%253A%2504%25BCk%25C9El%25C7%2515%25BC%25BBw%25BA%25C4%25BBu%2580%25F3s%250A%25FA%253B%25BCDy%25E1%251F%25E8RKMt%25A0%25B9K%2588%2517%25C0%250B%25DAh%25F6%25DA%258C%2598ak%25D2R%25C4%255E%259D%25FB%25A6O%25C6%2518Q%25F3%25F9%25DC%25FC%25CB%25BD%25A9%25CA%259A%258Awa%2528G%2596%25AE%250Bc%252CQ%2504%25FD%258E3%25AB%250C2%258B%253C%25FE%25B9-%25C0%25D9%2517%255C%253F.8scP7%251EZ%25A5%25E8%25A1o%252B%25BF%25AA%25ED%253C%25EBgX%25EE%25B9bjS%25F9%2514c5%2525%25ACV%2590%25A1%25E8%2510%25D8%251BS%259F%25C5p%252A%2593%25B5fe%25BCP%2581%2501",
+                "size": {
+                  "width": 300,
+                  "height": 250
+                },
+                "placementCode": "div-ad-2",
+                "adNetworkId": "58f3eb3b-48b4-49f7-80d6-2d923354cdf4",
+                "adNetworkNurl": null,
+                "priceFloorExperiment": {
+                  "id": "05174362-7e70-474f-bb3e-a2690b0b56ef",
+                  "name": "test",
+                  "price": 1,
+                  "hosts": [
+                    "google.com"
+                  ],
+                  "countries": [],
+                  "browsers": [
+                    "Chrome"
+                  ],
+                  "os": [],
+                  "sizes": [
+                    "300x250"
+                  ],
+                  "isActive": true
+                }
+              }
+            ]
+          },
+          "hostname": "google.com",
+          "responseCode": 0,
+          "responseRawData": ""
+        }
+      },
+      {
+        "type": "ad_network_bid_request",
+        "class": "Domain\\Event\\AdNetworkRequestBidsEvent",
+        "timestamp": {
+          "date": "2016-11-18 14:55:12.000000",
+          "timezone_type": 3,
+          "timezone": "Etc\/UTC"
+        },
+        "details": {
+          "adNetworkId": "dd879b24-a594-4862-8f8e-fdd7141166c7",
+          "bidRequestCollection": {
+            "bidRequests": [
+              {
+                "bidId": "2470d0a573639e",
+                "placementCode": "div-ad-2",
+                "sizes": [
+                  {
+                    "width": 300,
+                    "height": 250
+                  }
+                ],
+                "publisherId": "ab51835f-9cea-4810-87e0-d38800b50321",
+                "visitorProfile": {
+                  "site": {
+                    "host": "google.com",
+                    "page": "http:\/\/google.com\/",
+                    "isSecure": false
+                  },
+                  "geoProfile": {
+                    "country": "RU",
+                    "country3": "RUS",
+                    "region": "66",
+                    "ip": "195.182.152.219"
+                  },
+                  "uids": [],
+                  "acceptLanguage": "",
+                  "device": {
+                    "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/54.0.2840.98 Safari\/537.36",
+                    "browser": "Chrome",
+                    "os": "Mac OS X",
+                    "isMobile": false
+                  }
+                }
+              }
+            ]
+          },
+          "adNetworkRequests": []
+        }
+      },
+      {
+        "type": "bid_win",
+        "class": "Domain\\Event\\BidWinEvent",
+        "timestamp": {
+          "date": "2016-11-18 14:55:12.000000",
+          "timezone_type": 3,
+          "timezone": "Etc\/UTC"
+        },
+        "details": {
+          "bid": {
+            "id": "2470d0a573639e",
+            "impressionBeaconBuilder": "\\Closure",
+            "publisherCpm": 1,
+            "adNetworkCpm": 1,
+            "ad": "\u003Cimg src=\u0022http:\/\/publisher.roxot.com\/assets\/ads\/roxot_ad_300_250_natural.png\u0022 \/\u003E\u003Cscript\u003Edocument.write(\u0027\u003Cimg src=\u0022http:\/\/r.rxthdr.com\/i?i=p%7DA%DA%3A%E6%CB%00%A6%F9%2A%C7Y%B9%7F%2A+ORbEy%CF\/%A5%D5%3E%87%1F%86j%86%BA%FET%B2%85T%89f%28%9EL%86%FD%7D%BEMeP%FB%1A5%D4%D33%DF%91%80%E8JS%C3%D5%0C%1E%B5%96%C1%23%25%2A%05zjir6%C5%DF7%7B4%B3%98i%28%F2%89%DD%8E%A7%E9X%D40%21%94%C9%F2%B6A1%BE%15%01%8E%CC%08%2Cv%AB%00%C4%28n%8DO%CB%5B%EA%90%28%D8%E3%27%0E3%29A0%FFsU%96%C9%91%E7%F83%9A%BB%3A%04%BCk%C9El%C7%15%BC%BBw%BA%C4%BBu%80%F3s%0A%FA%3B%BCDy%E1%1F%E8RKMt%A0%B9K%88%17%C0%0B%DAh%F6%DA%8C%98ak%D2R%C4%5E%9D%FB%A6O%C6%18Q%F3%F9%DC%FC%CB%BD%A9%CA%9A%8Awa%28G%96%AE%0Bc%2CQ%04%FD%8E3%AB%0C2%8B%3C%FE%B9-%C0%D9%17%5C%3F.8scP7%1EZ%A5%E8%A1o%2B%BF%AA%ED%3C%EBgX%EE%B9bjS%F9%14c5%25%ACV%90%A1%E8%10%D8%1BS%9F%C5p%2A%93%B5fe%BCP%81%01\u0022\u003E\u0027)\u003C\/script\u003E",
+            "beacon": "http%3A%2F%2Fr.rxthdr.com%2Fw%3Fi%3Dp%257DA%25DA%253A%25E6%25CB%2500%25A6%25F9%252A%25C7Y%25B9%257F%252A%2BORbEy%25CF%2F%25A5%25D5%253E%2587%251F%2586j%2586%25BA%25FET%25B2%2585T%2589f%2528%259EL%2586%25FD%257D%25BEMeP%25FB%251A5%25D4%25D33%25DF%2591%2580%25E8JS%25C3%25D5%250C%251E%25B5%2596%25C1%2523%2525%252A%2505zjir6%25C5%25DF7%257B4%25B3%2598i%2528%25F2%2589%25DD%258E%25A7%25E9X%25D40%2521%2594%25C9%25F2%25B6A1%25BE%2515%2501%258E%25CC%2508%252Cv%25AB%2500%25C4%2528n%258DO%25CB%255B%25EA%2590%2528%25D8%25E3%2527%250E3%2529A0%25FFsU%2596%25C9%2591%25E7%25F83%259A%25BB%253A%2504%25BCk%25C9El%25C7%2515%25BC%25BBw%25BA%25C4%25BBu%2580%25F3s%250A%25FA%253B%25BCDy%25E1%251F%25E8RKMt%25A0%25B9K%2588%2517%25C0%250B%25DAh%25F6%25DA%258C%2598ak%25D2R%25C4%255E%259D%25FB%25A6O%25C6%2518Q%25F3%25F9%25DC%25FC%25CB%25BD%25A9%25CA%259A%258Awa%2528G%2596%25AE%250Bc%252CQ%2504%25FD%258E3%25AB%250C2%258B%253C%25FE%25B9-%25C0%25D9%2517%255C%253F.8scP7%251EZ%25A5%25E8%25A1o%252B%25BF%25AA%25ED%253C%25EBgX%25EE%25B9bjS%25F9%2514c5%2525%25ACV%2590%25A1%25E8%2510%25D8%251BS%259F%25C5p%252A%2593%25B5fe%25BCP%2581%2501",
+            "size": {
+              "width": 300,
+              "height": 250
+            },
+            "placementCode": "div-ad-2",
+            "adNetworkId": "58f3eb3b-48b4-49f7-80d6-2d923354cdf4",
+            "adNetworkNurl": null,
+            "priceFloorExperiment": {
+              "id": "05174362-7e70-474f-bb3e-a2690b0b56ef",
+              "name": "test",
+              "price": 1,
+              "hosts": [
+                "google.com"
+              ],
+              "countries": [],
+              "browsers": [
+                "Chrome"
+              ],
+              "os": [],
+              "sizes": [
+                "300x250"
+              ],
+              "isActive": true
+            }
+          }
+        }
+      },
+      {
+        "type": "experiment_request",
+        "class": "Domain\\Event\\PriceFloorExperiment\\ExperimentRequestEvent",
+        "timestamp": {
+          "date": "2016-11-18 14:55:12.000000",
+          "timezone_type": 3,
+          "timezone": "Etc\/UTC"
+        },
+        "details": null
+      }
+    ]
+  }
+}
